@@ -1,0 +1,12 @@
+E:\Projects\Janda\DataTypes\bin\x86\Release\DataTypes.dll
+E:\Projects\Janda\DataTypes\bin\x86\Release\DataTypes.pdb
+E:\Projects\Janda\DataTypes\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Projects\Janda\DataTypes\obj\x86\Release\DataTypes.dll
+E:\Projects\Janda\DataTypes\obj\x86\Release\DataTypes.pdb
+E:\Projects\Janda\DataTypes\obj\x86\Release\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\bin\x86\Release\DataTypes.dll
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\bin\x86\Release\DataTypes.pdb
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\obj\x86\Release\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\obj\x86\Release\DataTypes.dll
+C:\Users\Pkorn_000\Desktop\Janda\DataTypes\obj\x86\Release\DataTypes.pdb
