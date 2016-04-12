@@ -9,7 +9,6 @@ Built using
 -----------
 * XNA Game Studio
 * C#
-* Adobe Photoshop
 
 Installation
 ------------
