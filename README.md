@@ -3,7 +3,7 @@
 **Janda** is an educational quiz game. The objective is to choose the correct one between two flags. Ultimately, the goal is to score as many correct flags as possible within a limited amount of time (one minute). Each right answer adds up a hundred points, wrong one - take off a hundred.
 
 ![Preview](ChristmasBreakout/ChristmasBreakoutContent/images/win.gif?raw=true)
-<br>**Gameplay cut short for presentation purposes
+<br>**Gameplay cut short for presentation purposes*
 
 Built using
 -----------
