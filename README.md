@@ -1,8 +1,8 @@
 # Janda - Flag Quiz
 
-**Janda** is an educational flag quiz game. The objective is to choose the correct one between two flags. Ultimately, the goal is to score as many correct flags as possible within a limited amount of time (one minute). Each right answer adds up a hundred points, wrong one - take off a hundred.
+**Janda** is an educational flag quiz game. The objective is to choose the correct one between two flags. Ultimately, the goal is to score as many correct flags as possible within a limited amount of time (one minute). Each right answer adds up a hundred points, wrong one - take off a hundred. Every pair of flags is generated randomly.
 
-![Preview](ChristmasBreakout/ChristmasBreakoutContent/images/win.gif?raw=true)
+![Preview](Janda/JandaContent/images/janda_preview.gif?raw=true)
 <br>**Gameplay cut short for presentation purposes*
 
 Built using
